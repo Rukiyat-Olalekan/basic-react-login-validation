@@ -16,7 +16,7 @@
 
 To set up the Basic React Login app, follow these steps:
 
-1. Clone the repository to your local machine: git clone https://github.com/yourusername/basic-react-login.git
+1. Clone the repository to your local machine: git clone https://github.com/Rukiyat-Olalekan/basic-react-login.git
 
 2. Navigate to the project directory: cd basic-react-login
 
